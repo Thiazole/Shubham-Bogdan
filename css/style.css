@@ -1,0 +1,11 @@
+#nav-bar {
+  position: fixed;
+  top: 0;
+  display: flex;
+  flex-direction: row-reverse;
+}
+@media screen and (min-width: 699px) {
+  body {
+    background-color: #333;
+  }
+}
